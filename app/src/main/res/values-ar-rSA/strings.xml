@@ -509,6 +509,7 @@
     <string name="notify_channel_description">إشعار لإظهار موقع الملف المستخرج</string>
     <string name="products_to_be_completed">مُنتجات مراد إكمالها</string>
     <string name="creator_history" comment="Do not modify the placeholders, and make sure all of them are present in the translation.">تمت إضافة المنتج بتاريخ %1$s فى %2$s من قبل%3$s</string>
+    <string name="last_editor_history" comment="Do not modify the placeholders, and make sure all of them are present in the translation.">التعديل الأخير من صفحة المنتج على %1$s في %2$s CEST بواسطة %3$s</string>
     <!-- TODO: Add the placeholder in the string - important for several languages -->
     <string name="other_editors">تم تعديل المنتج أيضاً بواسطة </string>
     <string name="product_states">Product States</string>
@@ -710,7 +711,7 @@
     <string name="add_a_list">أضف قائمة</string>
     <string name="edit_image">حرر الصورة</string>
     <string name="cant_edit_image_not_yet_uploaded">لم يتم تحميل الصورة الجديدة بعد. من فضلك انتظر قبل التعديل عليها</string>
-    <string name="unselect_image">إلغاء تحديد الصورة</string>
+    <string name="unselect_image">Sodium</string>
     <string name="choose_default_language">حدد لغة المنتج</string>
     <string name="barcode">الرمز الشريطي</string>
     <string name="productAdditivesNone">بدون إضافات</string>
@@ -761,7 +762,7 @@
     <string name="content_choose_photo">اختر من بين الصور الموجودة</string>
     <string name="title_edit_photo">حرر الصورة</string>
     <string name="content_edit_photo">تحرير واقتصاص وتدوير الصورة</string>
-    <string name="title_unselect_photo">إلغاء تحديد الصورة</string>
+    <string name="title_unselect_photo">Sodium</string>
     <string name="content_unselect_photo">اضغط هنا ﻹلغاء تحديد الصورة الحالية</string>
     <string name="title_exit">خروج</string>
     <string name="content_exit">اضغط هنا للعودة إلى المنتج</string>
@@ -792,4 +793,5 @@
     <string name="msg_welcome_ecoscore">تركيبة من الأثر البيئي لطعامك.</string>
     <string name="title_welcome_matomo">إرسال تحليلات مجهولة</string>
     <string name="msg_welcome_matomo">ساعد متطوعين Open Food Facts لتطوير التطبيق. لديك قرار في إرسال تحليلات مجهولة. إذا غيرت رأيك، هذا الخيار يمكن تمكينه وتعطيله في أي وقت من الإعدادات.</string>
+    <string name="hint_category_list">Search for a food category</string>
 </resources>

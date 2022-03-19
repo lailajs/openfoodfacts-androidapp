@@ -386,7 +386,7 @@
     <string name="email_not_found">No se encontró ninguna aplicación de correo electrónico</string>
     <string name="device_offline_dialog_title">Red no disponible</string>
     <string name="scan_first_product">Escanea tu primer producto</string>
-    <string name="changes_saved">Cambios guardados correctamente</string>
+    <string name="changes_saved">ිින</string>
     <string name="proceed">Continuar</string>
     <string name="preference_choose_language_dialog_title">Elegir idioma</string>
     <string name="preference_choose_scanner_dialog_title"><b>Nuevo: Escáner mejorado \"MLKit\"</b></string>
@@ -487,6 +487,7 @@
     <string name="notify_channel_description">Notificación para mostrar la ubicación del archivo exportado</string>
     <string name="products_to_be_completed">Productos por completar</string>
     <string name="creator_history" comment="Do not modify the placeholders, and make sure all of them are present in the translation.">Producto agregado desde %1$s a %2$s CET por %3$s</string>
+    <string name="last_editor_history" comment="Do not modify the placeholders, and make sure all of them are present in the translation.">Última edición de la página del producto en %1$s a %2$s CEST por %3$s</string>
     <!-- TODO: Add the placeholder in the string - important for several languages -->
     <string name="other_editors">Página de producto también editada por </string>
     <string name="product_states">Estados del producto</string>
@@ -766,4 +767,5 @@
     <string name="msg_welcome_ecoscore">Una síntesis del impacto medioambiental de tus alimentos.</string>
     <string name="title_welcome_matomo">Enviar análisis anónimos</string>
     <string name="msg_welcome_matomo">Ayuda a los voluntarios de Open Food Facts a mejorar la aplicación. Tú decides si envías análisis anónimos.\n\nSi cambias de opinión, esta opción se puede activar y desactivar en cualquier momento desde los ajustes.</string>
+    <string name="hint_category_list">Search for a food category</string>
 </resources>
