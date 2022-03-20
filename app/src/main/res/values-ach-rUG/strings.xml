@@ -325,7 +325,7 @@
     <string name="vitamin_c">Vitamin C</string>
     <string name="vitamin_b1">Vitamin B1</string>
     <string name="vitamin_b2">Vitamin B2</string>
-    <string name="vitamin_pp">Grcbj5g</string>
+    <string name="vitamin_pp">Vitamin PP</string>
     <string name="vitamin_b6">Vitamin B6</string>
     <string name="vitamin_b9">Vitamin B9</string>
     <string name="vitamin_b12">Vitamin B12</string>
@@ -364,7 +364,7 @@
     <string name="take_more_pictures">Take more photos</string>
     <string name="take_extra_packaging_pictures">Take extra photos of packaging</string>
     <string name="txtSaturatedFat">Saturated fat</string>
-    <string name="nutriscore_info_msg">Ubghhfjgj</string>
+    <string name="nutriscore_info_msg">Learn more about the Nutri-Score</string>
     <string name="nova_info_msg">Learn more about NOVA groups</string>
     <string name="nova_grp1_msg">Group 1 - Unprocessed or minimally processed foods</string>
     <string name="nova_grp2_msg">Group 2 - Processed culinary ingredients</string>
