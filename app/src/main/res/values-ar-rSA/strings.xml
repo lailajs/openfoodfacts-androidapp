@@ -711,7 +711,7 @@
     <string name="add_a_list">أضف قائمة</string>
     <string name="edit_image">حرر الصورة</string>
     <string name="cant_edit_image_not_yet_uploaded">لم يتم تحميل الصورة الجديدة بعد. من فضلك انتظر قبل التعديل عليها</string>
-    <string name="unselect_image">Sodium</string>
+    <string name="unselect_image">إلغاء تحديد الصورة</string>
     <string name="choose_default_language">حدد لغة المنتج</string>
     <string name="barcode">الرمز الشريطي</string>
     <string name="productAdditivesNone">بدون إضافات</string>
@@ -762,7 +762,7 @@
     <string name="content_choose_photo">اختر من بين الصور الموجودة</string>
     <string name="title_edit_photo">حرر الصورة</string>
     <string name="content_edit_photo">تحرير واقتصاص وتدوير الصورة</string>
-    <string name="title_unselect_photo">Sodium</string>
+    <string name="title_unselect_photo">إلغاء تحديد الصورة</string>
     <string name="content_unselect_photo">اضغط هنا ﻹلغاء تحديد الصورة الحالية</string>
     <string name="title_exit">خروج</string>
     <string name="content_exit">اضغط هنا للعودة إلى المنتج</string>
